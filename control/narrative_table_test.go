@@ -1,8 +1,8 @@
 package control_test
 
 import (
-	. "github.com/opencontrol/fedramp-templater/control"
-	"github.com/opencontrol/fedramp-templater/fixtures"
+	. "github.com/isimluk/fedramp-templater/control"
+	"github.com/isimluk/fedramp-templater/fixtures"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

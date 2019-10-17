@@ -6,7 +6,7 @@ import (
 
 	"github.com/jbowtie/gokogiri/xml"
 	"github.com/opencontrol/doc-template/docx"
-	"github.com/opencontrol/fedramp-templater/docx/helper"
+	"github.com/isimluk/fedramp-templater/docx/helper"
 )
 
 // SummaryTablesXPath is the pattern used to find summary tables within an SSP's XML.

@@ -5,8 +5,8 @@ import (
 	"path/filepath"
 
 	"github.com/onsi/gomega"
-	"github.com/opencontrol/fedramp-templater/opencontrols"
-	"github.com/opencontrol/fedramp-templater/ssp"
+	"github.com/isimluk/fedramp-templater/opencontrols"
+	"github.com/isimluk/fedramp-templater/ssp"
 )
 
 // ABr: must be vars; 'const initializer gomega.Expect is not a constant'

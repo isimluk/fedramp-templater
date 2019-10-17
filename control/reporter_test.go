@@ -4,8 +4,8 @@ import (
 	"bytes"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
-	"github.com/opencontrol/fedramp-templater/common/source"
-	"github.com/opencontrol/fedramp-templater/reporter"
+	"github.com/isimluk/fedramp-templater/common/source"
+	"github.com/isimluk/fedramp-templater/reporter"
 )
 
 func createFakeStdOut() *bytes.Buffer {

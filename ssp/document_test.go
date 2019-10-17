@@ -1,8 +1,8 @@
 package ssp_test
 
 import (
-	"github.com/opencontrol/fedramp-templater/fixtures"
-	. "github.com/opencontrol/fedramp-templater/ssp"
+	"github.com/isimluk/fedramp-templater/fixtures"
+	. "github.com/isimluk/fedramp-templater/ssp"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

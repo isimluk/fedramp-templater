@@ -3,7 +3,7 @@ package docx
 import (
 	"fmt"
 	"github.com/jbowtie/gokogiri/xml"
-	"github.com/opencontrol/fedramp-templater/docx/helper"
+	"github.com/isimluk/fedramp-templater/docx/helper"
 )
 
 const (

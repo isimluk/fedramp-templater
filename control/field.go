@@ -1,7 +1,7 @@
 package control
 
 import (
-	"github.com/opencontrol/fedramp-templater/common/source"
+	"github.com/isimluk/fedramp-templater/common/source"
 )
 
 // field is the very simple representation of information.

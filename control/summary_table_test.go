@@ -5,14 +5,14 @@ import (
 	"text/template"
 
 	"github.com/jbowtie/gokogiri/xml"
-	"github.com/opencontrol/fedramp-templater/docx/helper"
-	"github.com/opencontrol/fedramp-templater/fixtures"
-	"github.com/opencontrol/fedramp-templater/ssp"
+	"github.com/isimluk/fedramp-templater/docx/helper"
+	"github.com/isimluk/fedramp-templater/fixtures"
+	"github.com/isimluk/fedramp-templater/ssp"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
-	"github.com/opencontrol/fedramp-templater/common/origin"
-	"github.com/opencontrol/fedramp-templater/reporter"
+	"github.com/isimluk/fedramp-templater/common/origin"
+	"github.com/isimluk/fedramp-templater/reporter"
 )
 
 type tableData struct {

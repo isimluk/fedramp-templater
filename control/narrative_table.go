@@ -2,7 +2,7 @@ package control
 
 import (
 	"github.com/jbowtie/gokogiri/xml"
-	"github.com/opencontrol/fedramp-templater/opencontrols"
+	"github.com/isimluk/fedramp-templater/opencontrols"
 )
 
 func fillNarrativeRows(rows []xml.Node, data opencontrols.Data, control string) error {

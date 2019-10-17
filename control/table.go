@@ -5,7 +5,7 @@ import (
 	"regexp"
 
 	"github.com/jbowtie/gokogiri/xml"
-	"github.com/opencontrol/fedramp-templater/xml/helper"
+	"github.com/isimluk/fedramp-templater/xml/helper"
 )
 
 type table struct {

@@ -1,7 +1,7 @@
 package origin
 
 import (
-	"github.com/opencontrol/fedramp-templater/common/source"
+	"github.com/isimluk/fedramp-templater/common/source"
 	"gopkg.in/fatih/set.v0"
 	"log"
 	"reflect"

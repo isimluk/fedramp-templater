@@ -3,8 +3,8 @@ package opencontrols
 import (
 	"github.com/opencontrol/compliance-masonry/commands/docs/docx"
 	"github.com/opencontrol/compliance-masonry/models"
-	"github.com/opencontrol/fedramp-templater/common/origin"
-	"github.com/opencontrol/fedramp-templater/common/status"
+	"github.com/isimluk/fedramp-templater/common/origin"
+	"github.com/isimluk/fedramp-templater/common/status"
 	"gopkg.in/fatih/set.v0"
 	"strings"
 )

@@ -3,7 +3,7 @@ package control
 import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
-	"github.com/opencontrol/fedramp-templater/fixtures"
+	"github.com/isimluk/fedramp-templater/fixtures"
 )
 
 var _ = Describe("controlOrignation", func() {
